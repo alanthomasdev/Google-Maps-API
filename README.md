@@ -12,3 +12,18 @@ This repository contains a fully functional Google Maps integration using @vis.g
 #### ✅ State-Level Interactions: Clicking on a state displays an InfoWindow with relevant details.
 #### ✅ Dynamic Data Integration: Preloaded donation-related data dynamically appears on interactions.
 #### ✅ Smooth Performance: Optimized rendering for fast and interactive maps.
+
+
+
+## Steps. 
+
+### Please use Maps.tsx as a component and setup the rest of the files. 
+### /app/components/maps
+Polygon.jsx
+Polyline.jsx
+I have added a demo json file from 
+## https://geojson-maps.kyd.au/
+
+## /public/maps/
+custom.geoindia.json (contains GeoJson)
+marker.js (contains data of the markers)
