@@ -27,3 +27,5 @@ I have added a demo json file from
 ## /public/maps/
 custom.geoindia.json (contains GeoJson)
 marker.js (contains data of the markers)
+
+<img width="1678" alt="Image" src="https://github.com/user-attachments/assets/6fd081d4-c61c-4dc9-a477-49197c4b05ba" />
